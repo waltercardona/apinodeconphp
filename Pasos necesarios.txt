@@ -1,0 +1,20 @@
+Buenas tardes acontinuacion indico las tecnologias que utilizamos para el proyect>
+
+para la api de php usasmos el framkword slim 
+se debe de instalar composer (Composer-Setup.exe) y despues de de instalar el componente
+en la terminal (composer require slim/slim:3.*)
+la base de datos de php es xampp 
+
+para la aplicacion de node se debe de hacser un archivo con extencion .env y dentro 
+de este archivo el siguiente codigo
+CITAS_APP_MONGODB_HOST=localhost
+CITAS_APP_MONGODB_DATABASE=citas-app
+
+despues npm install para los node_moduls
+despues npm run dev 
+y tener mongo installado
+
+ la base de datos de php tambien se la pase
+
+busco su atuada por que lo que nos solicitan realmente no emos podido debemos de hacer que funcione tanto la aplicaiocnd e node y que si le combiamos la ruta 
+funcione la de php  muchas gracias por la ayuda quenos puedas dar
